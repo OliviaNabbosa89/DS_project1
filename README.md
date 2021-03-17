@@ -1,2 +1,11 @@
 # DS_project1
-This is related to Lesson 2 in the Udacity Data Science course. This is intended to prepare us for project 1 in the course
+ Analysed the Seattle Airbnb listings data from 2016
+# **Table of contents**
+1. [Installations](#header-name)
+2. [Project motivation](#header-name)
+3. [File Descriptions](#header-name)
+4. [Results](#header-name)
+# **Installations**
+# **Project motivation**
+# **File Descriptions**
+# **Results**
