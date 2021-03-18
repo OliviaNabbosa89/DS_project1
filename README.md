@@ -24,4 +24,11 @@ In this project, I use the Seattle listings and calendar data to answer the foll
 7. How well do the selected features from the Seattle listings data predict the prices in Seattle?
 
 ## **File Descriptions**
+There are 5 notebooks to answer the questions above. 
+* Data Preprocessings - Imputating missing values and removing outliers.
+* Listings_EDA        - Answers questions 1-4.
+* Calendar_analysis   - Answers questions 5 & 6.
+* Predicting_prices   - Answers question 7.
+* my_functions        - Customerized functions.
+
 ## **Results**
