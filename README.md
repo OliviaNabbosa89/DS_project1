@@ -30,5 +30,8 @@ There are 5 notebooks to answer the questions above.
 * Calendar_analysis   - Answers questions 5 & 6.
 * Predicting_prices   - Answers question 7.
 * my_functions        - Customerized functions.
+I include markdown cells to define the goal, steps of the code and present summary of the results.
+There are in-line comments to further describe some steps in the code.
 
 ## **Results**
+
