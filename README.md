@@ -13,23 +13,20 @@ If not yet installed, install ipynb to use the customarized functions in the not
  pip install ipynb
  ```
 ## **Project motivation**
-In this project, I use the Seattle listings and calendar data to answer the following questions:
+In this project, I use the Seattle listings and calendar data to answer the following business questions:
 
-1. How many listings are registered in the different neighbourhoods?
-2. How and by how much the prices and cleaning fees vary in the different neighbourhoods?
-3. How and by how much the prices and cleaning fees vary for the different property types?
-4. How and by how much the prices and cleaning fees vary for the different room types?
-5. How do the prices vary in the year (months and prices)
-6. How do the prices vary in the month (Days of the week and prices)
-7. How well do the selected features from the Seattle listings data predict the prices in Seattle?
+1. How do the number of listings and prices vary in the Seattle's neighbourhoods?
+2. Do the room or property types change the price?
+3. Are there extra fees and how do they vary?
+4. How do the listing prices vary during the calendar?
+5. How well do the features in the listings data set explain the variation prices in Seattle?
 
 ## **File Descriptions**
 There are 5 notebooks to answer the questions above. 
-* Data Preprocessings - Imputating missing values and removing outliers.
-* Listings_EDA        - Answers questions 1-4.
-* Calendar_analysis   - Answers questions 5 & 6.
-* Predicting_prices   - Answers question 7.
-* my_functions        - Customerized functions.
+* Listings_EDA        - Answers questions 1-3.
+* Calendar_analysis   - Answers question 4.
+* Predicting_prices   - Answers question 5.
+* my_functions        - Customerized functions which are used in the analysis in the Listings_EDA and Calendar_analysis notebooks.
 
 I include markdown cells to define the goal, steps of the code and present summary of the results.
 There are in-line comments to further describe some steps in the code.
