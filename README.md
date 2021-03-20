@@ -1,5 +1,5 @@
 # DS_project1
- In this project, I analyse the listings and calendar from the Seattle Airbnb open data 2016 and answer questions related to the price variations and drivers.
+ In this project, I analyse the listings and calendar data from Seattle Airbnb open data 2016 and answer questions related to the price variations and drivers in Seattle.
 ## **Table of contents**
 1. [Installations](#header-name)
 2. [Project motivation](#header-name)
