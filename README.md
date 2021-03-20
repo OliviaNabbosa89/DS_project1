@@ -35,7 +35,7 @@ I include markdown cells to define the goal, steps of the code and present summa
 There are in-line comments to further describe some steps in the code.
 
 ## **Results**
-The main results of this project can be found here [Medium]
+The main results of this project can be found [here](https://olivianabbosa.medium.com/how-to-get-a-good-price-on-airbnb-a-guests-guide-baae5c29b1f8)
 
 ## **Licensing, Authors, Acknowledgements**
 Must give credit to Seattle Airbnb for the data. You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/airbnb/seattle/data)
