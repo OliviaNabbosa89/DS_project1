@@ -10,8 +10,11 @@
 The code will run smoothly with python 3.
 If not yet installed, install ipynb to use the customarized functions in the notebooks.
  ```
- !pip install ipynb
- 
+ pip install ipynb
+ ```
+ To visualise the folium heatmap in the notebooks install follium package
+ ```
+ pip install folium
  ```
 ## **Project motivation**
 In this project, I use the Seattle listings and calendar data to answer the following questions:
@@ -36,6 +39,7 @@ I include markdown cells to define the goal, steps of the code and present summa
 There are in-line comments to further describe some steps in the code.
 
 ## **Results**
+In the Listings_EAD notebook includes a heatmap that doesnot open in Github but can be viewed [here]()
 The main results of this project can be found here [Medium]
 
 ## **Licensing, Authors, Acknowledgements**
