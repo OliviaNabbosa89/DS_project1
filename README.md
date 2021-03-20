@@ -1,5 +1,5 @@
 # DS_project1
- Analysed the Seattle Airbnb listings data from 2016
+ In this project, I analyse the listings and calendar from the Seattle Airbnb open data 2016 and answer questions related to the price variations and drivers.
 ## **Table of contents**
 1. [Installations](#header-name)
 2. [Project motivation](#header-name)
@@ -35,7 +35,7 @@ I include markdown cells to define the goal, steps of the code and present summa
 There are in-line comments to further describe some steps in the code.
 
 ## **Results**
-The main results of this project can be found [here](https://olivianabbosa.medium.com/how-to-get-a-good-price-on-airbnb-a-guests-guide-baae5c29b1f8)
+The main results of this project can be found on my Medium page [click here](https://olivianabbosa.medium.com/how-to-get-a-good-price-on-airbnb-a-guests-guide-baae5c29b1f8)
 
 ## **Licensing, Authors, Acknowledgements**
 Must give credit to Seattle Airbnb for the data. You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/airbnb/seattle/data)
